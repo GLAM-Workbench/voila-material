@@ -99,6 +99,7 @@ setup(
         'voila'
     ],
     packages=[],
+    py_modules=[],
     cmdclass={
         'develop': DevelopCmd,
     }
